@@ -5,9 +5,9 @@ Reason : I learnt different cubes 3 * 3, 4 * 4, 5 * 5, mirror cube, pyraminx cub
 Tools - Codeblocks , turbo C++
 Objective - To make an Pyraminx Solver which can solve any scrambled position of pyraminx 
 Process of implementation - 
-Step 1 : Solving tips 
-Step 2 : Solving a star 
-Step 3 : Finishing one side whole blue 
+Step 1 : Solving tips
+Step 2 : Solving a star
+Step 3 : Finishing one side whole blue
 Step 4 : The second layer 
 Step 5 : The third layer 
 
