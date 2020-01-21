@@ -5,3 +5,6 @@ Reason : I learnt different cubes 3 * 3, 4 * 4, 5 * 5, mirror cube, pyraminx cub
 Tools - Codeblocks , turbo C++
 
 Open ppt for more information. 
+
+mail on : krunalexample1@gmail.com 
+for code 
