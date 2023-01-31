@@ -6,5 +6,5 @@ Tools - Codeblocks , turbo C++
 
 Open ppt for more information. 
 
-mail on : krunalexample1@gmail.com 
+mail on : krunal.bhavsar@pace.edu
 for code 
